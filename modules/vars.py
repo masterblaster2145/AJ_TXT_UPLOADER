@@ -5,5 +5,5 @@ api_hash  = getenv("api_hash", "")
 bot_token = getenv("bot_token", "")
 pwtoken = getenv("pwtoken", "")
 CHANNEL_ID = int(getenv("CHANNEL_ID", ""))
-AUTH = ""
-#Bot Username = ""
+AUTH = "7797848667:AAH-306Br7iIbSZNCJHTx77uBDFwtSAFvXA
+#Bot Username = "My_txt_bot"
